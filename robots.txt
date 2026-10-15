@@ -1,0 +1,3 @@
+# Independent non-indexed concept. Social bots can access OG metadata and image.
+User-agent: *
+Allow: /
